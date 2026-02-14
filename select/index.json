@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "感動共有！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2026-02-14T15:59:52.065752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "感動共有！ - KANDOU KYOUYUU!",
+      "artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+      "has_synced": false,
+      "path": "select/01_感動共有!_-_KANDOU_KYOUYUU!_T-Pistonz+KMC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "感動共有!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/02_感動共有!_T-Pistonz+KMC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感動共有!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_感動共有!_T-Pistonz+KMC.txt"
+    }
+  ]
+}
